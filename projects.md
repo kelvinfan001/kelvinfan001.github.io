@@ -14,16 +14,16 @@ Site: [https://findalicious.herokuapp.com](https://findalicious.herokuapp.com/)
 
 Repo: [https://github.com/kelvinfan001/findalicious](https://github.com/kelvinfan001/findalicious)
 
-<img src="/assets/img/create_room_demo.gif" alt="Findalicious Demo"/>
+<img src="/assets/img/logos/create_room_demo.gif" alt="Findalicious Demo"/>
 
-<img src="/assets/img/swiping_demo.gif" alt="Findalicious Demo"/>
+<img src="/assets/img/logos/swiping_demo.gif" alt="Findalicious Demo"/>
 
 ##### Created with
-<img width="25px" src="/assets/img/react.svg" alt="React"/>
-<img width="25px" src="/assets/img/mongodb-logo.png" alt="MongDB"/>
-<img width="25px" src="/assets/img/ExpressJS.png" alt="Express"/>
-<img width="25px" src="/assets/img/socket.io.svg" alt="Socket.io"/>
-<img width="25px" src="/assets/img/yelp.png" alt="Yelp"/>
+<img width="25px" src="/assets/img/logos/react.svg" alt="React"/>
+<img width="25px" src="/assets/img/logos/mongodb-logo.png" alt="MongDB"/>
+<img width="25px" src="/assets/img/logos/ExpressJS.png" alt="Express"/>
+<img width="25px" src="/assets/img/logos/socket.io.svg" alt="Socket.io"/>
+<img width="25px" src="/assets/img/logos/yelp.png" alt="Yelp"/>
 
 <hr>
 
@@ -34,12 +34,12 @@ Includes chaincode (smart contract) for application logic and an API server used
 
 Repo: [https://github.com/kelvinfan001/libertas](https://github.com/kelvinfan001/libertas)
 
-<img width="500px" src="/assets/img/libertas.jpg" alt="Libertas Wireframe"/>
+<img width="500px" src="/assets/img/logos/libertas.jpg" alt="Libertas Wireframe"/>
 
 ##### Created with
-<img width="80px" src="/assets/img/fabric.png" alt="Hyperledger Fabric"/>
-<img width="25px" src="/assets/img/ExpressJS.png" alt="Express"/>
-<img width="25px" src="/assets/img/socket.io.svg" alt="Socket.io"/>
+<img width="80px" src="/assets/img/logos/fabric.png" alt="Hyperledger Fabric"/>
+<img width="25px" src="/assets/img/logos/ExpressJS.png" alt="Express"/>
+<img width="25px" src="/assets/img/logos/socket.io.svg" alt="Socket.io"/>
 
 <hr>
 
@@ -51,14 +51,14 @@ Sometimes, we all need someone to make sure we don't get tempted to spend all ou
 
 Repo: [https://github.com/kelvinfan001/crypto-piggies](https://github.com/kelvinfan001/crypto-piggies)
 
-<img width="400px" src="/assets/img/cryptopiggies-0.png" alt="CryptoPiggies Screenshot"/>
+<img width="400px" src="/assets/img/logos/cryptopiggies-0.png" alt="CryptoPiggies Screenshot"/>
 
-<img width="400px" src="/assets/img/cryptopiggies-1.png" alt="CryptoPiggies Screenshot"/>
+<img width="400px" src="/assets/img/logos/cryptopiggies-1.png" alt="CryptoPiggies Screenshot"/>
 
 ##### Created with
 
-<img width="20px" src = "/assets/img/ethereum.svg" alt="Ethereum"/>
-<img width="20px" src = "/assets/img/vue.svg" alt="Vue.js"/>
+<img width="20px" src = "/assets/img/logos/ethereum.svg" alt="Ethereum"/>
+<img width="20px" src = "/assets/img/logos/vue.svg" alt="Vue.js"/>
 
 <hr>
 
@@ -71,6 +71,6 @@ Mobile-friendly web app to provide a centralized platform for registration and c
 Repo: [https://github.com/Dhruvasu/FeedingCanadianKids](https://github.com/Dhruvasu/FeedingCanadianKids)
 
 ##### Created with
-<img width="25px" src="/assets/img/react.svg" alt="React"/>
-<img width="25px" src="/assets/img/mysql.png" alt="MySQL"/>
-<img width="25px" src="/assets/img/ExpressJS.png" alt="Express"/>
+<img width="25px" src="/assets/img/logos/react.svg" alt="React"/>
+<img width="25px" src="/assets/img/logos/mysql.png" alt="MySQL"/>
+<img width="25px" src="/assets/img/logos/ExpressJS.png" alt="Express"/>
