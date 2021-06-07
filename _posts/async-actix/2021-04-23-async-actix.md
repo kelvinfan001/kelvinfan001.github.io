@@ -437,7 +437,7 @@ The syntax for starting actors on `SyncArbiter`s is slightly different, and sinc
 
 As we saw, Actix can help us create concurrent applications under the actor model, making use of both green threads and OS threads.
 
-#### References
+# References
 - https://os.phil-opp.com/async-await/#implementation
 - https://rust-lang.github.io/async-book/
 - https://tokio.rs/tokio/tutorial/

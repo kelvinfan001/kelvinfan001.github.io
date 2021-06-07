@@ -4,8 +4,9 @@ date: 2021-02-14
 tags: []
 description: Comparing Vec<T>, &[T], [T], [T;n], Box<[T]>
 tag:
-  - rust
+  - Rust
   - programming
+  - strings
 image: /learning-to-love-rust/does_not_compile.svg
 ---
 
@@ -147,7 +148,7 @@ println!("{}", size_of_val(&my_string_in_a_box)); // 16
 
 As far as I can tell, boxed slices aren't too common, since `String`s and `Vector`s can do everything that a `Box<str>` or `Box<[T]>` can, but I think it's helpful to illustrate that slices don't _have_ to be behind references, they can be behind anything, so long as it has some way to point to where the slice is, and a size.
 
-#### References
+# References
 - https://stackoverflow.com/questions/61151041/i-dont-understand-the-difference-between-a-slice-and-reference-rust
 - http://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/second-edition/ch04-03-slices.html
 - http://smallcultfollowing.com/babysteps/blog/2014/01/05/dst-take-5/
